@@ -1,0 +1,90 @@
+.docx
+- - - Glori doc.docx
+.py
+- - - 01. Numbers.py
+- - - 02. Expression Evaluator.py
+- - - 03. Milkshakes.py
+- - - 04. Honey.py
+- - - 05. Santa's Present Factory.py
+- - - 06. Paint Colors.py
+- - - EXC 01 Even Lines.py
+- - - EXC 01 Numbers Dictionary.py
+- - - EXC 01. Flatten Lists.py
+- - - EXC 01. Negative vs Positive.py
+- - - EXC 01. Reverse Numbers.py
+- - - EXC 01. Unique Usernames.py
+- - - EXC 02 Line Numbers.py
+- - - EXC 02. Keyword Arguments Length.py
+- - - EXC 02. Matrix Modification.py
+- - - EXC 02. Sets of Elements.py
+- - - EXC 02. Stacked Queries.py
+- - - EXC 03 File Manipulator.py
+- - - EXC 03. Even or Odd.py
+- - - EXC 03. Fast Food.py
+- - - EXC 03. Knight Game.py
+- - - EXC 03. Periodic Table.py
+- - - EXC 04. Count Symbols.py
+- - - EXC 04. Easter Bunny.py
+- - - EXC 04. Fashion Boutique.py
+- - - EXC 04. Numbers Filter.py
+- - - EXC 05. Concatenate.py
+- - - EXC 05. Longest Intersection.py
+- - - EXC 05. Truck Tour.py
+- - - EXC 06. Balanced Parentheses.py
+- - - EXC 06. Battle of Names.py
+- - - EXC 06. Function Executor.py
+- - - EXC 07. Grocery.py
+- - - EXC 07. Robotics.py
+- - - EXC 08. Age Assignment.py
+- - - EXC 09. Miner.py
+- - - EXC 09. Recursion Palindrome.py
+- - - EXC 10. Cups and Bottles.py
+- - - EXC 10. Fill the Box.py
+- - - EXC 11. Math Operations.py
+- - - EXC 2 Email Validator.py
+- - - EXC 3 Password Validator.py
+- - - EXC 4 Directory Traversal.py
+- - - EXC 4 Rotate Matrix.py
+- - - EXC 5 Online Banking.py
+- - - EXM 01. Diagonals.py
+- - - EXM 02. Diagonal Difference.py
+- - - EXM 03. 2x2 Squares in Matrix.py
+- - - EXM 04. Maximal Sum.py
+- - - EXM 05. Matrix of Palindromes.py
+- - - EXM 06. Matrix Shuffling.py
+- - - EXM 07. Snake Moves.py
+- - - EXM 08. Bombs.py
+- - - LAB 01 File Opener.py
+- - - LAB 01. Multiplication Function.py
+- - - LAB 01. Reverse Strings.py
+- - - LAB 01. Sum Matrix Elements.py
+- - - LAB 02 File reader.py
+- - - LAB 02. Even Matrix.py
+- - - LAB 02. Matching Parentheses.py
+- - - LAB 02. Person Info.py
+- - - LAB 02. Students' Grades.py
+- - - LAB 03. Cheese Showcase.py
+- - - LAB 03. Flattening Matrix.py
+- - - LAB 03. Record Unique Names.py
+- - - LAB 03. Supermarket.py
+- - - LAB 04. Parking Lot.py
+- - - LAB 04. Rectangle.py
+- - - LAB 04. Sum Matrix Columns.py
+- - - LAB 04. Water Dispenser.py
+- - - LAB 05. Hot Potato.py
+- - - LAB 05. Operate.py
+- - - LAB 05. Primary Diagonal.py
+- - - LAB 05. SoftUni Party.py
+- - - LAB 06. Recursive Power.py
+- - - LAB 06. Symbol in Matrix.py
+- - - LAB 07. Square with Maximum Sum.py
+- - - LAB 1. Count Same Values.py
+- - - LAB 2 Repeat text.py
+- - - LAB 3 File Writer.py
+- - - LAB 3 Value can not be negative.py
+- - - LAB 4 File Delete.py
+- - - LAB 5 Word counter.py
+.rar
+- - - Error Handling Homework.rar
+.txt
+- - - report.txt
